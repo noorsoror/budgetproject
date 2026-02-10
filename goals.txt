@@ -1,0 +1,4 @@
+#Functionality
+-Set Total Budget
+-Set Budget Categories
+-Update Dynamically
